@@ -1,0 +1,17 @@
+1) abstrakt
+	-co
+	-jak (jaka hipoteza)
+	-ile wyszło
+	-wnioski
+
+2) wstęp 
+	-opis teoretyczny
+
+3) układ pomiarowy
+	-rysunek układu
+	-użyte elementy
+
+4) przebieg doświadczenia
+
+5) analiza danych
+	
